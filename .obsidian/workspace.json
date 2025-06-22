@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prototype/brag-doc.md",
+                "file": "08 MVP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "brag-doc"
+              "title": "08 MVP"
             }
           }
         ]
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Epics.md",
+                "file": "07 Старицы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 Epics"
+              "title": "07 Старицы"
             }
           }
         ]
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 Epics.md",
+                "file": "08 MVP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 05 Epics"
+              "title": "Backlinks for 08 MVP"
             }
           },
           {
@@ -135,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 Epics.md",
+                "file": "08 MVP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 05 Epics"
+              "title": "Outgoing links from 08 MVP"
             }
           },
           {
@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 Epics.md",
+                "file": "08 MVP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 05 Epics"
+              "title": "Outline of 08 MVP"
             }
           }
         ]
@@ -190,36 +190,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7bebccd743689cf8",
+  "active": "b98b4df5e639b9f5",
   "lastOpenFiles": [
-    "Prototype/brag-doc.md",
-    "Prototype/dashboard-employee.md",
-    "brag-doc-history.md",
-    "05 Epics.md",
+    "шаблон анкеты.md",
+    "08 MVP.md",
+    "период оценивания.md",
     "README.md",
-    "Prototype/dashboard-employee-first-login.md",
-    "Prototype/help.md",
-    "Prototype/settings.md",
-    "Prototype/dashboard-manager.md",
-    "audit-log.md",
-    "Prototype/dashboard-hr.md",
-    "analytics-overview.md",
-    "security-policy.md",
-    "notifications-settings.md",
-    "user-access.md",
-    "report-feedback-team.md",
-    "review-templates.md",
-    "all-users.md",
-    "Prototype/calendar-1on1.md",
-    "Prototype/goals-approval.md",
+    "05 Epics.md",
+    "04 Структура БД.md",
+    "Prototype2/dashboard.md",
+    "Prototype2/self-review_history.md",
+    "Prototype2/brag-doc.md",
+    "Prototype2/goals_-goalId_progress_add.md",
+    "Prototype2/goals.md",
+    "Prototype2/self-review_-periodId_edit.md",
+    "Function checklist.md",
     "Prototype/review-checklist.md",
-    "Prototype/self-review-form.md",
-    "Prototype/goals-history.md",
-    "feedback-manager.md",
-    "goals-team-overview.md",
-    "team-summary.md",
+    "Prototype2/login.md",
+    "07 Старицы.md",
+    "Prototype2/admin_settings.md",
+    "Prototype2/forgot-password.md",
+    "Prototype2/admin_departments.md",
+    "Prototype2/admin_audit-log.md",
+    "Prototype2/notifications.md",
+    "Prototype2/help.md",
+    "Prototype2/admin_notifications.md",
+    "Prototype2/admin_questionnaires.md",
+    "Prototype2/admin_periods.md",
+    "Prototype2/admin_users_-userId.md",
+    "Prototype2",
     "review",
-    "help",
+    "Prototype/help",
     "Prototype"
   ]
 }
