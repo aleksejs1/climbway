@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 MVP.md",
+                "file": "05 Epics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08 MVP"
+              "title": "05 Epics"
             }
           }
         ]
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08 MVP.md",
+                "file": "Ключевые участники и роли.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 08 MVP"
+              "title": "Backlinks for Ключевые участники и роли"
             }
           },
           {
@@ -135,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08 MVP.md",
+                "file": "Ключевые участники и роли.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 08 MVP"
+              "title": "Outgoing links from Ключевые участники и роли"
             }
           },
           {
@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08 MVP.md",
+                "file": "Ключевые участники и роли.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 08 MVP"
+              "title": "Outline of Ключевые участники и роли"
             }
           }
         ]
@@ -192,13 +192,23 @@
   },
   "active": "b98b4df5e639b9f5",
   "lastOpenFiles": [
-    "шаблон анкеты.md",
-    "08 MVP.md",
-    "период оценивания.md",
-    "README.md",
-    "05 Epics.md",
     "04 Структура БД.md",
+    "03 Карта интерфейсов.md",
+    "02 Сценарии пользователей.md",
+    "README.md",
+    "01 Описание продукта.md",
+    "Основной процесс оценки.md",
+    "Ключевые участники и роли.md",
+    "help/faq.md",
+    "help/assessment-process.md",
+    "help/brag-guide.md",
+    "help",
+    "00 Intro.md",
     "Prototype2/dashboard.md",
+    "08 MVP.md",
+    "шаблон анкеты.md",
+    "период оценивания.md",
+    "05 Epics.md",
     "Prototype2/self-review_history.md",
     "Prototype2/brag-doc.md",
     "Prototype2/goals_-goalId_progress_add.md",
@@ -209,15 +219,6 @@
     "Prototype2/login.md",
     "07 Старицы.md",
     "Prototype2/admin_settings.md",
-    "Prototype2/forgot-password.md",
-    "Prototype2/admin_departments.md",
-    "Prototype2/admin_audit-log.md",
-    "Prototype2/notifications.md",
-    "Prototype2/help.md",
-    "Prototype2/admin_notifications.md",
-    "Prototype2/admin_questionnaires.md",
-    "Prototype2/admin_periods.md",
-    "Prototype2/admin_users_-userId.md",
     "Prototype2",
     "review",
     "Prototype/help",
