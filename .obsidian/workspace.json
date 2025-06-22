@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Описание продукта.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 Описание продукта"
+              "title": "README"
             }
           }
         ]
@@ -192,8 +192,8 @@
   },
   "active": "b98b4df5e639b9f5",
   "lastOpenFiles": [
-    "Prototype2/self-review_-periodId_edit.md",
     "01 Описание продукта.md",
+    "Prototype2/self-review_-periodId_edit.md",
     "README.md",
     "02 Сценарии пользователей.md",
     "03 Карта интерфейсов.md",
