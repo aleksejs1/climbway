@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "a3140011f9aaae13",
+    "type": "split",
+    "children": [
+      {
+        "id": "48d462d91e00e4c2",
+        "type": "tabs",
+        "dimension": 47.90764790764791,
+        "children": [
+          {
+            "id": "b98b4df5e639b9f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prototype/brag-doc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "brag-doc"
+            }
+          }
+        ]
+      },
+      {
+        "id": "dcdc6325e17c1982",
+        "type": "tabs",
+        "dimension": 52.09235209235209,
+        "children": [
+          {
+            "id": "7bebccd743689cf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 Epics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 Epics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a1e5cac2532d943",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d9c1d698fd9a553",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0daacce31adfafa7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "208e8ccd38db3c32",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "sett",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5a409700b0a3ea73",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.5
+  },
+  "right": {
+    "id": "212a5518dbcec867",
+    "type": "split",
+    "children": [
+      {
+        "id": "aba39f8b5076bcb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b8f5e68b8d9a17e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05 Epics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 05 Epics"
+            }
+          },
+          {
+            "id": "35e8bbf088909d7b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "05 Epics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 05 Epics"
+            }
+          },
+          {
+            "id": "21ca8a642eda8266",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c2fd59ed8bd76730",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "05 Epics.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 05 Epics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7bebccd743689cf8",
+  "lastOpenFiles": [
+    "Prototype/brag-doc.md",
+    "Prototype/dashboard-employee.md",
+    "brag-doc-history.md",
+    "05 Epics.md",
+    "README.md",
+    "Prototype/dashboard-employee-first-login.md",
+    "Prototype/help.md",
+    "Prototype/settings.md",
+    "Prototype/dashboard-manager.md",
+    "audit-log.md",
+    "Prototype/dashboard-hr.md",
+    "analytics-overview.md",
+    "security-policy.md",
+    "notifications-settings.md",
+    "user-access.md",
+    "report-feedback-team.md",
+    "review-templates.md",
+    "all-users.md",
+    "Prototype/calendar-1on1.md",
+    "Prototype/goals-approval.md",
+    "Prototype/review-checklist.md",
+    "Prototype/self-review-form.md",
+    "Prototype/goals-history.md",
+    "feedback-manager.md",
+    "goals-team-overview.md",
+    "team-summary.md",
+    "review",
+    "help",
+    "Prototype"
+  ]
+}
