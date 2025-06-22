@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Epics.md",
+                "file": "01 Описание продукта.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 Epics"
+              "title": "01 Описание продукта"
             }
           }
         ]
@@ -192,13 +192,15 @@
   },
   "active": "b98b4df5e639b9f5",
   "lastOpenFiles": [
-    "04 Структура БД.md",
-    "03 Карта интерфейсов.md",
-    "02 Сценарии пользователей.md",
-    "README.md",
+    "Функциональные модули.md",
     "01 Описание продукта.md",
     "Основной процесс оценки.md",
     "Ключевые участники и роли.md",
+    "02 Сценарии пользователей.md",
+    "05 Epics.md",
+    "04 Структура БД.md",
+    "03 Карта интерфейсов.md",
+    "README.md",
     "help/faq.md",
     "help/assessment-process.md",
     "help/brag-guide.md",
@@ -208,7 +210,6 @@
     "08 MVP.md",
     "шаблон анкеты.md",
     "период оценивания.md",
-    "05 Epics.md",
     "Prototype2/self-review_history.md",
     "Prototype2/brag-doc.md",
     "Prototype2/goals_-goalId_progress_add.md",
@@ -218,7 +219,6 @@
     "Prototype/review-checklist.md",
     "Prototype2/login.md",
     "07 Старицы.md",
-    "Prototype2/admin_settings.md",
     "Prototype2",
     "review",
     "Prototype/help",
