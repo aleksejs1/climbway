@@ -2,7 +2,7 @@
 - [[self-review_-periodId_edit|текущая анкета]] (если есть)
 - [[goals|текущие цели]]
 	- [[goals_-goalId_progress_add|отметка прогресса]] в процентах + комментарий + ссылка на запись в brag-документе
-- Последние записи [[Prototype2/brag-doc|brag-документа]]
+- Последние записи [[Prototype_minimal/brag-doc|brag-документа]]
 - [[self-review_history|История анкет]]
 
 #### Для менеджеров

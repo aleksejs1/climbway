@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Страницы.md",
+                "file": "Prototype_minimal/dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 Страницы"
+              "title": "dashboard"
             }
           }
         ]
@@ -190,39 +190,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b98b4df5e639b9f5",
+  "active": "0daacce31adfafa7",
   "lastOpenFiles": [
-    "README.md",
-    "Notes/шаблон анкеты.md",
-    "Notes",
-    "Notes/период оценивания.md",
-    "06 Структура БД.md",
-    "05 Страницы.md",
-    "04 Карта интерфейсов.md",
-    "03 Сценарии пользователей.md",
+    "Prototype/calendar-1on1.md",
     "02 MVP.md",
-    "01 Описание продукта.md",
-    "08 Roadmap (deprecated).md",
-    "07 Epics (deprecated).md",
-    "Prototype2/self-review_-periodId_edit.md",
-    "01.md",
-    "05.md",
-    "06.md",
-    "00 Intro.md",
-    "Prototype_depr/dashboard-employee.md",
-    "Prototype_depr/goals-team-overview.md",
-    "Prototype_depr/goals-history.md",
-    "Prototype2/goals.md",
-    "Prototype2/goals_-goalId_progress_add.md",
-    "Prototype2/dashboard.md",
-    "Tasks_depr/E1 Самооценка и сбор данных от сотрудников.md",
-    "Tasks_depr/S1 - MVP.1.md",
-    "Tasks_depr/E2 Управление целями и их утверждение.md",
-    "Tasks_depr",
+    "Prototype/team-summary.md",
+    "Prototype/settings.md",
+    "Prototype/self-review-form.md",
+    "Prototype/review-templates.md",
+    "Prototype/review-checklist.md",
+    "Prototype/report-feedback-team.md",
+    "Prototype/help.md",
+    "Prototype/goals-team-overview.md",
+    "Prototype/goals-history.md",
+    "Prototype/goals-approval.md",
+    "Prototype/feedback-manager.md",
+    "Prototype/dashboard-manager.md",
+    "Prototype/dashboard-hr.md",
+    "Prototype/dashboard-employee.md",
+    "Prototype/dashboard-employee-first-login.md",
+    "Prototype/brag-doc.md",
+    "Prototype/audit-log.md",
+    "Prototype/analytics-overview.md",
+    "Notes/шаблон анкеты.md",
+    "Notes/период оценивания.md",
+    "05 Страницы.md",
+    "README.md",
+    "Notes",
+    "06 Структура БД.md",
+    "04 Карта интерфейсов.md",
+    "Tasks_deprecated",
     "help",
-    "Prototype2",
-    "Prototype_depr/review",
-    "Prototype_depr/help",
-    "Prototype_depr"
+    "Prototype_minimal",
+    "Prototype/review",
+    "Prototype/help",
+    "Prototype"
   ]
 }
