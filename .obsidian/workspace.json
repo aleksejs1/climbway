@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/шаблон анкеты.md",
+                "file": "05 Страницы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "шаблон анкеты"
+              "title": "05 Страницы"
             }
           }
         ]
@@ -190,12 +190,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0daacce31adfafa7",
+  "active": "b98b4df5e639b9f5",
   "lastOpenFiles": [
+    "README.md",
+    "Notes/шаблон анкеты.md",
     "Notes",
     "Notes/период оценивания.md",
-    "Notes/шаблон анкеты.md",
-    "README.md",
     "06 Структура БД.md",
     "05 Страницы.md",
     "04 Карта интерфейсов.md",
