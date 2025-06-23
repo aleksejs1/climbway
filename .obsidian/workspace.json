@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Описание продукта.md",
+                "file": "Notes/шаблон анкеты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 Описание продукта"
+              "title": "шаблон анкеты"
             }
           }
         ]
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 Страницы.md",
+                "file": "05 Страницы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07 Страницы"
+              "title": "05 Страницы"
             }
           }
         ]
@@ -96,8 +96,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,19 +190,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b98b4df5e639b9f5",
+  "active": "0daacce31adfafa7",
   "lastOpenFiles": [
-    "07 Страницы.md",
-    "01 Описание продукта.md",
+    "Notes",
+    "Notes/период оценивания.md",
+    "Notes/шаблон анкеты.md",
     "README.md",
-    "03 Карта интерфейсов.md",
-    "02 Сценарии пользователей.md",
-    "05 Epics.md",
-    "06 Roadmap.md",
-    "04 Структура БД.md",
-    "период оценивания.md",
-    "08 MVP.md",
-    "шаблон анкеты.md",
+    "06 Структура БД.md",
+    "05 Страницы.md",
+    "04 Карта интерфейсов.md",
+    "03 Сценарии пользователей.md",
+    "02 MVP.md",
+    "01 Описание продукта.md",
+    "08 Roadmap (deprecated).md",
+    "07 Epics (deprecated).md",
     "Prototype2/self-review_-periodId_edit.md",
     "01.md",
     "05.md",
@@ -219,7 +219,6 @@
     "Tasks_depr/S1 - MVP.1.md",
     "Tasks_depr/E2 Управление целями и их утверждение.md",
     "Tasks_depr",
-    "Prototype_depr/review-templates.md",
     "help",
     "Prototype2",
     "Prototype_depr/review",
